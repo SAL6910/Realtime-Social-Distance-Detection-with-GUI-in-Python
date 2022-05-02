@@ -83,7 +83,7 @@ You need to install all the python libraries.
 
 ## CUDA Setup
 
-CUDA Setup steps are put in the application (Click File. Follow the steps in the link to setup CUDA for your graphic card.
+CUDA Setup steps are put in the application (Click Help -> CUDA SETUP). Follow the steps in the link to setup CUDA for your graphic card.
 
 ## Technologies Used
 
