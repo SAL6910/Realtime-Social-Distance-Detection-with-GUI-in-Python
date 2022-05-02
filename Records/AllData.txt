@@ -1,0 +1,356 @@
+
+******Human_Count with limit: 6 on 01/11/2022 10:42:11.******
+Human_Count: 1 recorded_at 01/11/2022 10:42:11
+Human_Count: 1 recorded_at 01/11/2022 10:42:12
+Human_Count: 1 recorded_at 01/11/2022 10:42:13
+Human_Count: 1 recorded_at 01/11/2022 10:42:14
+Human_Count: 1 recorded_at 01/11/2022 10:42:15
+Human_Count: 1 recorded_at 01/11/2022 10:42:16
+Human_Count: 1 recorded_at 01/11/2022 10:42:17
+Human_Count: 1 recorded_at 01/11/2022 10:42:18
+Human_Count: 1 recorded_at 01/11/2022 10:42:19
+Human_Count: 1 recorded_at 01/11/2022 10:42:20
+Human_Count: 1 recorded_at 01/11/2022 10:42:21
+Human_Count: 1 recorded_at 01/11/2022 10:42:22
+Human_Count: 1 recorded_at 01/11/2022 10:42:23
+Human_Count: 1 recorded_at 01/11/2022 10:42:24
+Human_Count: 1 recorded_at 01/11/2022 10:42:25
+Human_Count: 1 recorded_at 01/11/2022 10:42:26
+Human_Count: 1 recorded_at 01/11/2022 10:42:27
+Human_Count: 1 recorded_at 01/11/2022 10:42:28
+Human_Count: 1 recorded_at 01/11/2022 10:42:29
+Human_Count: 1 recorded_at 01/11/2022 10:42:30
+Human_Count: 1 recorded_at 01/11/2022 10:42:31
+Human_Count: 1 recorded_at 01/11/2022 10:42:32
+Human_Count: 1 recorded_at 01/11/2022 10:42:33
+Human_Count: 1 recorded_at 01/11/2022 10:42:34
+Human_Count: 1 recorded_at 01/11/2022 10:42:35
+Human_Count: 1 recorded_at 01/11/2022 10:42:36
+Human_Count: 1 recorded_at 01/11/2022 10:42:37
+Human_Count: 1 recorded_at 01/11/2022 10:42:38
+Human_Count: 1 recorded_at 01/11/2022 10:42:39
+Human_Count: 1 recorded_at 01/11/2022 10:42:40
+Human_Count: 1 recorded_at 01/11/2022 10:42:41
+Human_Count: 1 recorded_at 01/11/2022 10:42:42
+Human_Count: 1 recorded_at 01/11/2022 10:42:43
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 6 on 01/11/2022 10:44:14.******
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:14
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:15
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:16
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:17
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:18
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:19
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:20
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:21
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:22
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:23
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:24
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:25
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:26
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:27
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:28
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:29
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:30
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:31
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:32
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:33
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:34
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:35
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:36
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:37
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:38
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:39
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:40
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:41
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:42
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:43
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:44
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:45
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:46
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:47
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:48
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:49
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/11/2022 10:44:50
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 3 on 01/11/2022 11:16:36.******
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:36 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/11/2022 11:16:36
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:37 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:38 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:39 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/11/2022 11:16:40
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:41 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 4 recorded_at 01/11/2022 11:16:42 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:42 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/11/2022 11:16:43
+Social_Distance_Violations: 0 Human_Count: 3 recorded_at 01/11/2022 11:16:43 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/11/2022 11:16:44
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/11/2022 11:16:45
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:45
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:46
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:47
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:48
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:49
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:50
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:51
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:52
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:53
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:54
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:55
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:56
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/11/2022 11:16:57
+
+******Human_Count with limit: 4 on 01/11/2022 14:44:19.******
+Human_Count: 1 recorded_at 01/11/2022 14:44:19
+Human_Count: 1 recorded_at 01/11/2022 14:44:20
+Human_Count: 1 recorded_at 01/11/2022 14:44:21
+Human_Count: 1 recorded_at 01/11/2022 14:44:22
+Human_Count: 1 recorded_at 01/11/2022 14:44:23
+Human_Count: 1 recorded_at 01/11/2022 14:44:24
+Human_Count: 1 recorded_at 01/11/2022 14:44:25
+Human_Count: 1 recorded_at 01/11/2022 14:44:26
+Human_Count: 1 recorded_at 01/11/2022 14:44:27
+Human_Count: 1 recorded_at 01/11/2022 14:44:28
+Human_Count: 1 recorded_at 01/11/2022 14:44:29
+Human_Count: 1 recorded_at 01/11/2022 14:44:30
+Human_Count: 1 recorded_at 01/11/2022 14:44:31
+Human_Count: 1 recorded_at 01/11/2022 14:44:32
+Human_Count: 1 recorded_at 01/11/2022 14:44:33
+Human_Count: 1 recorded_at 01/11/2022 14:44:34
+Human_Count: 1 recorded_at 01/11/2022 14:44:35
+Human_Count: 1 recorded_at 01/11/2022 14:44:36
+Human_Count: 1 recorded_at 01/11/2022 14:44:37
+Human_Count: 1 recorded_at 01/11/2022 14:44:38
+Human_Count: 1 recorded_at 01/11/2022 14:44:39
+Human_Count: 1 recorded_at 01/11/2022 14:44:40
+Human_Count: 1 recorded_at 01/11/2022 14:44:41
+Human_Count: 1 recorded_at 01/11/2022 14:44:42
+Human_Count: 1 recorded_at 01/11/2022 14:44:43
+Human_Count: 1 recorded_at 01/11/2022 14:44:44
+Human_Count: 1 recorded_at 01/11/2022 14:44:45
+Human_Count: 1 recorded_at 01/11/2022 14:44:46
+Human_Count: 1 recorded_at 01/11/2022 14:44:47
+Human_Count: 1 recorded_at 01/11/2022 14:44:48
+Human_Count: 1 recorded_at 01/11/2022 14:44:49
+Human_Count: 1 recorded_at 01/11/2022 14:44:50
+Human_Count: 1 recorded_at 01/11/2022 14:44:51
+Human_Count: 1 recorded_at 01/11/2022 14:44:52
+Human_Count: 1 recorded_at 01/11/2022 14:44:53
+Human_Count: 1 recorded_at 01/11/2022 14:44:54
+Human_Count: 1 recorded_at 01/11/2022 14:44:55
+Human_Count: 1 recorded_at 01/11/2022 14:44:56
+Human_Count: 1 recorded_at 01/11/2022 14:44:57
+Human_Count: 1 recorded_at 01/11/2022 14:44:58
+Human_Count: 1 recorded_at 01/11/2022 14:44:59
+Human_Count: 1 recorded_at 01/11/2022 14:45:00
+Human_Count: 1 recorded_at 01/11/2022 14:45:01
+Human_Count: 1 recorded_at 01/11/2022 14:45:02
+Human_Count: 1 recorded_at 01/11/2022 14:45:03
+Human_Count: 1 recorded_at 01/11/2022 14:45:04
+Human_Count: 1 recorded_at 01/11/2022 14:45:05
+Human_Count: 1 recorded_at 01/11/2022 14:45:06
+Human_Count: 1 recorded_at 01/11/2022 14:45:07
+Human_Count: 1 recorded_at 01/11/2022 14:45:08
+Human_Count: 3 recorded_at 01/11/2022 14:45:09
+Human_Count: 1 recorded_at 01/11/2022 14:45:09
+Human_Count: 1 recorded_at 01/11/2022 14:45:10
+Human_Count: 2 recorded_at 01/11/2022 14:45:10
+Human_Count: 1 recorded_at 01/11/2022 14:45:11
+Human_Count: 1 recorded_at 01/11/2022 14:45:12
+Human_Count: 1 recorded_at 01/11/2022 14:45:13
+Human_Count: 1 recorded_at 01/11/2022 14:45:14
+Human_Count: 1 recorded_at 01/11/2022 14:45:15
+Human_Count: 1 recorded_at 01/11/2022 14:45:16
+Human_Count: 1 recorded_at 01/11/2022 14:45:17
+Human_Count: 1 recorded_at 01/11/2022 14:45:18
+Human_Count: 1 recorded_at 01/11/2022 14:45:19
+Human_Count: 1 recorded_at 01/11/2022 14:45:20
+Human_Count: 1 recorded_at 01/11/2022 14:45:21
+Human_Count: 1 recorded_at 01/11/2022 14:45:22
+Human_Count: 1 recorded_at 01/11/2022 14:45:23
+Human_Count: 1 recorded_at 01/11/2022 14:45:24
+Human_Count: 1 recorded_at 01/11/2022 14:45:25
+Human_Count: 2 recorded_at 01/11/2022 14:45:25
+Human_Count: 2 recorded_at 01/11/2022 14:45:26
+Human_Count: 1 recorded_at 01/11/2022 14:45:27
+Human_Count: 3 recorded_at 01/11/2022 14:45:27
+Human_Count: 2 recorded_at 01/11/2022 14:45:27
+Human_Count: 2 recorded_at 01/11/2022 14:45:28
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 25 on 01/12/2022 20:38:14.******
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:14
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:15
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:16
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:17
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:18
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:19
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:20
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:21
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:22
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:23
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:24
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:25
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:26
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:27
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:28
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:29
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:30
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:31
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:32
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/12/2022 20:38:33
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/12/2022 20:38:34
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 6 on 01/12/2022 22:17:29.******
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/12/2022 22:17:29
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:29
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:30
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:31
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:32
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:33
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:34
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:35
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/12/2022 22:17:36
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 4 on 01/18/2022 14:56:22.******
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:22
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:23
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:24
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:25
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:26
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:27
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:28
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:29
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:30
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:31
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 01/18/2022 14:56:31
+Social_Distance_Violations: 4 Human_Count: 7 recorded_at 01/18/2022 14:56:31 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 11 recorded_at 01/18/2022 14:56:32 (Limit Reached!)
+Social_Distance_Violations: 10 Human_Count: 14 recorded_at 01/18/2022 14:56:32 (Limit Reached!)
+Social_Distance_Violations: 2 Human_Count: 12 recorded_at 01/18/2022 14:56:33 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 15 recorded_at 01/18/2022 14:56:33 (Limit Reached!)
+Social_Distance_Violations: 10 Human_Count: 18 recorded_at 01/18/2022 14:56:34 (Limit Reached!)
+Social_Distance_Violations: 4 Human_Count: 14 recorded_at 01/18/2022 14:56:34 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 18 recorded_at 01/18/2022 14:56:35 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 19 recorded_at 01/18/2022 14:56:35 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 16 recorded_at 01/18/2022 14:56:35 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 19 recorded_at 01/18/2022 14:56:36 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 14 recorded_at 01/18/2022 14:56:36 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 17 recorded_at 01/18/2022 14:56:37 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 18 recorded_at 01/18/2022 14:56:37 (Limit Reached!)
+Social_Distance_Violations: 4 Human_Count: 12 recorded_at 01/18/2022 14:56:38 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 17 recorded_at 01/18/2022 14:56:38 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 17 recorded_at 01/18/2022 14:56:39 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 18 recorded_at 01/18/2022 14:56:39 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 12 recorded_at 01/18/2022 14:56:39 (Limit Reached!)
+Social_Distance_Violations: 10 Human_Count: 15 recorded_at 01/18/2022 14:56:40 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 16 recorded_at 01/18/2022 14:56:40 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 17 recorded_at 01/18/2022 14:56:41 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 17 recorded_at 01/18/2022 14:56:41 (Limit Reached!)
+Social_Distance_Violations: 16 Human_Count: 19 recorded_at 01/18/2022 14:56:42 (Limit Reached!)
+Social_Distance_Violations: 14 Human_Count: 18 recorded_at 01/18/2022 14:56:43 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 18 recorded_at 01/18/2022 14:56:43 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 16 recorded_at 01/18/2022 14:56:44 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 17 recorded_at 01/18/2022 14:56:44 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 13 recorded_at 01/18/2022 14:56:45 (Limit Reached!)
+Social_Distance_Violations: 10 Human_Count: 15 recorded_at 01/18/2022 14:56:45 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 14 recorded_at 01/18/2022 14:56:46 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 15 recorded_at 01/18/2022 14:56:46 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 13 recorded_at 01/18/2022 14:56:47 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 10 recorded_at 01/18/2022 14:56:47 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 12 recorded_at 01/18/2022 14:56:48 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 14 recorded_at 01/18/2022 14:56:48 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 13 recorded_at 01/18/2022 14:56:49 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 11 recorded_at 01/18/2022 14:56:49 (Limit Reached!)
+Social_Distance_Violations: 3 Human_Count: 5 recorded_at 01/18/2022 14:56:50 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 14 recorded_at 01/18/2022 14:56:50 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 13 recorded_at 01/18/2022 14:56:51 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 13 recorded_at 01/18/2022 14:56:51 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 12 recorded_at 01/18/2022 14:56:52 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 13 recorded_at 01/18/2022 14:56:52 (Limit Reached!)
+Social_Distance_Violations: 12 Human_Count: 14 recorded_at 01/18/2022 14:56:52 (Limit Reached!)
+Social_Distance_Violations: 11 Human_Count: 13 recorded_at 01/18/2022 14:56:53 (Limit Reached!)
+Social_Distance_Violations: 13 Human_Count: 13 recorded_at 01/18/2022 14:56:53 (Limit Reached!)
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 01/18/2022 14:56:54 (Limit Reached!)
+Social_Distance_Violations: 0 Human_Count: 2 recorded_at 01/18/2022 14:56:54
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:55
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:56
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/18/2022 14:56:57
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 6 on 01/25/2022 12:24:36.******
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:36
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:37
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:38
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:39
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:40
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:41
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 01/25/2022 12:24:42
+
+******Social_Distance_Violations_and_Realtime_Human_Count with Limit: 5 on 02/12/2022 11:04:39.******
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:39
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:40
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:41
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:42
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:43
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:44
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:45
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 02/12/2022 11:04:45
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:46
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:47
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 02/12/2022 11:04:47
+Social_Distance_Violations: 2 Human_Count: 2 recorded_at 02/12/2022 11:04:47
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:48
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:49
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:50
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:51
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:52
+Social_Distance_Violations: 0 Human_Count: 0 recorded_at 02/12/2022 11:04:53
+Social_Distance_Violations: 0 Human_Count: 1 recorded_at 02/12/2022 11:04:53
+Social_Distance_Violations: 4 Human_Count: 5 recorded_at 02/12/2022 11:04:53 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:53 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 8 recorded_at 02/12/2022 11:04:53 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 9 recorded_at 02/12/2022 11:04:53 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:53 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 4 Human_Count: 5 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 4 Human_Count: 6 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 8 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 3 Human_Count: 5 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 5 Human_Count: 7 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 8 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 9 recorded_at 02/12/2022 11:04:54 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 8 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 9 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 8 Human_Count: 8 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 9 Human_Count: 9 recorded_at 02/12/2022 11:04:55 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:56 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:56 (Limit Reached!)
+Social_Distance_Violations: 2 Human_Count: 3 recorded_at 02/12/2022 11:04:56
+Social_Distance_Violations: 8 Human_Count: 8 recorded_at 02/12/2022 11:04:56 (Limit Reached!)
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:04:56 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:57 (Limit Reached!)
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:04:57 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:57 (Limit Reached!)
+Social_Distance_Violations: 3 Human_Count: 3 recorded_at 02/12/2022 11:04:57
+Social_Distance_Violations: 9 Human_Count: 9 recorded_at 02/12/2022 11:04:57 (Limit Reached!)
+Social_Distance_Violations: 6 Human_Count: 6 recorded_at 02/12/2022 11:04:58 (Limit Reached!)
+Social_Distance_Violations: 7 Human_Count: 7 recorded_at 02/12/2022 11:04:58 (Limit Reached!)
+Social_Distance_Violations: 3 Human_Count: 4 recorded_at 02/12/2022 11:04:58
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:04:58 (Limit Reached!)
+Social_Distance_Violations: 2 Human_Count: 2 recorded_at 02/12/2022 11:04:58
+Social_Distance_Violations: 3 Human_Count: 3 recorded_at 02/12/2022 11:04:58
+Social_Distance_Violations: 4 Human_Count: 4 recorded_at 02/12/2022 11:04:58
+Social_Distance_Violations: 4 Human_Count: 4 recorded_at 02/12/2022 11:04:59
+Social_Distance_Violations: 3 Human_Count: 4 recorded_at 02/12/2022 11:04:59
+Social_Distance_Violations: 3 Human_Count: 3 recorded_at 02/12/2022 11:04:59
+Social_Distance_Violations: 2 Human_Count: 3 recorded_at 02/12/2022 11:04:59
+Social_Distance_Violations: 2 Human_Count: 2 recorded_at 02/12/2022 11:05:00
+Social_Distance_Violations: 2 Human_Count: 3 recorded_at 02/12/2022 11:05:00
+Social_Distance_Violations: 4 Human_Count: 4 recorded_at 02/12/2022 11:05:00
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:05:00 (Limit Reached!)
+Social_Distance_Violations: 4 Human_Count: 4 recorded_at 02/12/2022 11:05:01
+Social_Distance_Violations: 5 Human_Count: 5 recorded_at 02/12/2022 11:05:01 (Limit Reached!)
