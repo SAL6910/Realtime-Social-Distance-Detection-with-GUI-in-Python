@@ -90,10 +90,10 @@ You need to install all the python libraries.
 
 Minimum Requirements
 
-8Gb RAM
-Intel i5 processor
-Hard disk 1Tb 
-Optional: Graphic Card 
+1. 8Gb RAM
+2. Intel i5 processor
+3. Hard disk 1Tb 
+4. Optional: Graphic Card 
 
 ## Download YOLO extra files
 
