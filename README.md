@@ -80,6 +80,11 @@ This project is about Social Distance Detection and Human count. Entire project 
 You need to have anaconda installed.
 You need to install all the python libraries.
 
+
+## CUDA Setup
+
+CUDA Setup steps are put in the application (Click File. Follow the steps in the link to setup CUDA for your graphic card.
+
 ## Technologies Used
 
 1. Python
