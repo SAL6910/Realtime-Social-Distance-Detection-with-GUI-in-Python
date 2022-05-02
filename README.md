@@ -95,7 +95,7 @@ Intel i5 processor
 Hard disk 1Tb 
 Optional: Graphic Card 
 
-## Download YOLO COCO 
+## Download YOLO extra files
 
 Download the folder in the link and paste in the project directory.
 https://drive.google.com/drive/folders/11IHXeWxC4o3ZDG_DcFfYSAn5BLHrbDQa?usp=sharing
