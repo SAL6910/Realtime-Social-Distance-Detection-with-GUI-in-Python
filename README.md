@@ -5,6 +5,8 @@
 This project is about Social Distance Detection and Human count. Entire project is made using python. We have made use of a YOLOv3 pre-trained model. It is a complete desktop application made using python Tkinter.
 
 
+## Screenshots
+
 <p align="center">
     <b>Home Screen</b>
 </p>
